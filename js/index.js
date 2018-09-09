@@ -19,6 +19,7 @@ var music_pic = music.getElementsByClassName('music_pic')[0];
 var aud = music.getElementsByClassName('aud')[0];
 //定义音乐的状态变量
 var music_sta = 1;
+aud.play();
 music.onclick = function(){
 	if(music_sta==1){
 //		让背景gif隐藏
