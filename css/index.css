@@ -20,7 +20,7 @@ body {
 	width: 100%;
 	background-color: #ece2ed;
 	position: relative;
-	/*margin: 100rpx 0;*/
+	/*margin: 100px 0;*/
 	left: 0;
 	overflow: hidden;
 }
@@ -34,8 +34,8 @@ body {
 }
 
 .img1 {
-	top: -80rpx;
-	left: -100rpx;
+	top: -80px;
+	left: -100px;
 	transform: rotateZ(-20deg) scale(0.8);
 	z-index: 2;
 	animation: 2s changeLeft;
@@ -43,19 +43,19 @@ body {
 
 @keyframes changeLeft {
 	0% {
-		left: -600rpx;
+		left: -600px;
 	}
 	50% {
-		left: -300rpx;
+		left: -300px;
 	}
 	100% {
-		left: -100rpx;
+		left: -100px;
 	}
 }
 
 .img2 {
-	top: -80rpx;
-	right: -100rpx;
+	top: -80px;
+	right: -100px;
 	transform: rotatez(-100deg) scale(0.8);
 	z-index: 2;
 	animation: 2s changeRight;
@@ -63,40 +63,40 @@ body {
 
 @keyframes changeRight {
 	0% {
-		right: -600rpx;
+		right: -600px;
 	}
 	50% {
-		right: -300rpx;
+		right: -300px;
 	}
 	100% {
-		right: -100rpx;
+		right: -100px;
 	}
 }
 
 .img3 {
-	left: 60rpx;
-	top: 50rpx;
-	max-width: 260rpx;
+	left: 60px;
+	top: 50px;
+	max-width: 260px;
 	animation: 4s changeTop;
 }
 
 @keyframes changeTop {
 	0% {
-		top: -600rpx;
+		top: -600px;
 	}
 	100% {
-		top: 50rpx;
+		top: 50px;
 	}
 }
 
 .img3 img {
-	max-width: 260rpx;
+	max-width: 260px;
 }
 
 .img4 {
-	left: 12rpx;
-	/*top:450rpx;*/
-	bottom: -60rpx;
+	left: 12px;
+	/*top:450px;*/
+	bottom: -60px;
 	transform: scale(0.8);
 	z-index: 2;
 	animation: 2s changeBottom1;
@@ -104,27 +104,26 @@ body {
 
 @keyframes changeBottom1 {
 	0% {
-		bottom: -600rpx;
+		bottom: -600px;
 	}
 	100% {
-		bottom: -60rpx;
+		bottom: -60px;
 	}
 }
 
 .img5 {
-	right: -8rpx;
-	/*top:500rpx;*/
-	bottom: -120rpx;
+	right: -8px;	
+	bottom: -120px;
 	transform: rotateZ(-180deg) scale(0.8);
 	animation: 2s changeBottom;
 }
 
 @keyframes changeBottom {
 	0% {
-		bottom: -660rpx;
+		bottom: -660px;
 	}
 	100% {
-		bottom: -120rpx;
+		bottom: -120px;
 	}
 }
 
@@ -133,7 +132,7 @@ body {
 	width: 100%;
 	background-color: #ece2ed;
 	position: relative;
-	/*margin: 100rpx 0;*/
+	/*margin: 100px 0;*/
 	left: 0;
 	overflow: hidden;
 }
@@ -147,8 +146,8 @@ body {
 }
 
 .image1 {
-	top: -80rpx;
-	left: -100rpx;
+	top: -80px;
+	left: -100px;
 	transform: rotateZ(-20deg) scale(0.8);
 	z-index: 2;
 	animation: 2s changeLeft;
@@ -156,19 +155,19 @@ body {
 
 @keyframes changeLeft {
 	0% {
-		left: -600rpx;
+		left: -600px;
 	}
 	50% {
-		left: -300rpx;
+		left: -300px;
 	}
 	100% {
-		left: -100rpx;
+		left: -100px;
 	}
 }
 
 .image2 {
-	top: -80rpx;
-	right: -100rpx;
+	top: -80px;
+	right: -100px;
 	transform: rotatez(-100deg) scale(0.8);
 	z-index: 2;
 	animation: 2s changeRight;
@@ -176,40 +175,40 @@ body {
 
 @keyframes changeRight {
 	0% {
-		right: -600rpx;
+		right: -600px;
 	}
 	50% {
-		right: -300rpx;
+		right: -300px;
 	}
 	100% {
-		right: -100rpx;
+		right: -100px;
 	}
 }
 
 .image3 {
-	left: 60rpx;
-	top: 50rpx;
-	max-width: 260rpx;
+	left: 60px;
+	top: 50px;
+	max-width: 260px;
 	animation: 4s changeTop;
 }
 
 @keyframes changeTop {
 	0% {
-		top: -600rpx;
+		top: -600px;
 	}
 	100% {
-		top: 50rpx;
+		top: 50px;
 	}
 }
 
 .image3 img {
-	max-width: 260rpx;
+	max-width: 260px;
 }
 
 .image4 {
-	left: 12rpx;
-	/*top:450rpx;*/
-	bottom: -60rpx;
+	left: 12px;
+	/*top:450px;*/
+	bottom: -60px;
 	transform: scale(0.8);
 	z-index: 2;
 	animation: 2s changeBottom1;
@@ -217,27 +216,27 @@ body {
 
 @keyframes changeBottom1 {
 	0% {
-		bottom: -600rpx;
+		bottom: -600px;
 	}
 	100% {
-		bottom: -60rpx;
+		bottom: -60px;
 	}
 }
 
 .image5 {
-	right: -8rpx;
-	/*top:500rpx;*/
-	bottom: -120rpx;
+	right: -8px;
+	/*top:500px;*/
+	bottom: -120px;
 	transform: rotateZ(-180deg) scale(0.8);
 	animation: 2s changeBottom;
 }
 
 @keyframes changeBottom {
 	0% {
-		bottom: -660rpx;
+		bottom: -660px;
 	}
 	100% {
-		bottom: -120rpx;image
+		bottom: -120px;image
 	}
 }
 
@@ -245,18 +244,17 @@ body {
 /*音乐*/
 
 #music {
-	width: 60rpx;
-	height: 60rpx;
-	/*border: 2rpx solid blue;*/
+	width: 60px;
+	height: 60px;	
 	position: fixed;
-	top: 10rpx;
-	right: 10rpx;
+	top: 10px;
+	right: 10px;
 	z-index: 9;
 }
 
 #music .music_bg {
-	width: 60rpx;
-	height: 60rpx;
+	width: 60px;
+	height: 60px;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -273,8 +271,8 @@ body {
 
 #music .music_pic {
 	position: absolute;
-	top: 8rpx;
-	left: 8rpx;
+	top: 8px;
+	left: 8px;
 	animation: music 2s linear infinite;
 }
 
