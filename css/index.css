@@ -76,7 +76,7 @@ body {
 
 .img3 {
 	left: 60px;
-	top: 50px;
+	top: 20px;
 	max-width: 260px;
 	animation: 24s changeTop;
 	
@@ -91,10 +91,10 @@ body {
 		top: -600px;
 	}
 	30% {
-		top: 50px;
+		top: 20px;
 	}
 	60%{
-		top:50px;
+		top:20px;
 		left: 60px;
 	}
 	100%{
@@ -102,7 +102,7 @@ body {
 	}
 }
 .img6{left: 60px;
-	top: 50px;
+	top: 20px;
 	max-width: 280px;
 	animation:changeTop6 24s;
 }
@@ -115,7 +115,7 @@ body {
 		top: -600px;
 	}
 	100% {
-		top: 50px;
+		top: 20px;
 	}
 	}
 
